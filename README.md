@@ -7,6 +7,7 @@
     <p>- API Midtrans for payment</p>
     <p>- API Google Cloud Console for SSO login google</p>
     <p>- Forward Chaining for recommendation bussiness</p>
+    <img width="944" alt="Image" src="https://github.com/user-attachments/assets/12ccc7d9-6018-4430-a492-d2be0b2872e8" />
     <img width="946" alt="Image" src="https://github.com/user-attachments/assets/7df50b6d-2b53-4aeb-9521-c3ab5ea1e40b" />
     <img width="960" alt="Image" src="https://github.com/user-attachments/assets/e0976390-9050-4c6b-9306-57eafc20b186" />
     <img width="960" alt="Image" src="https://github.com/user-attachments/assets/9ae4ab6b-92ac-4dde-aff6-79ab94683737" />
