@@ -6,5 +6,7 @@
     <p>This project integrates</p> 
     <p>- API Midtrans for payment</p>
     <p>- API Google Cloud Console for SSO login google</p>
+    <p>- Forward Chaining for recommendation bussiness</p>
+    <img src="">
 </p>
 
